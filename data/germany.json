@@ -1,0 +1,710 @@
+{
+    "tm": {
+        "@id": "1331640132731",
+        "poi": [
+            {
+                "id": "europe_HD_DE_TTR278_2_N",
+                "p": {
+                    "x": 962744.5,
+                    "y": 6810946
+                },
+                "ic": 9,
+                "ty": 3,
+                "cs": 0,
+                "d": "long-term roadworks",
+                "f": "Ostwestfalen/Lippe (A2)",
+                "t": "Bielefeld-Zentrum (A2)",
+                "l": 8160,
+                "r": "A2/E34"
+            },
+            {
+                "id": "europe_HD_DE_TTR278_1_P",
+                "p": {
+                    "x": 960806,
+                    "y": 6799720.5
+                },
+                "ic": 9,
+                "ty": 3,
+                "cs": 0,
+                "d": "long-term roadworks",
+                "f": "Bielefeld-Zentrum (A2)",
+                "t": "Ostwestfalen/Lippe (A2)",
+                "l": 7370,
+                "r": "A2/E34"
+            },
+            {
+                "id": "europe_HD_DE_TTL2369064_P",
+                "p": {
+                    "x": 992196.1,
+                    "y": 6807743.5
+                },
+                "ic": 6,
+                "ty": 3,
+                "cs": 0,
+                "d": "stationary traffic",
+                "f": "Richard-Wagner-Straße (Rintelner Straße/B238)",
+                "t": "Hohenhausen (B238)",
+                "l": 520,
+                "dl": 177,
+                "r": "B238"
+            },
+            {
+                "id": "europe_HD_DE_TTR2252251_P",
+                "p": {
+                    "x": 951510,
+                    "y": 6834118
+                },
+                "ic": 7,
+                "ty": 4,
+                "cs": 0,
+                "d": "overtaking lane closed",
+                "c": "roadworks",
+                "f": "Bünde (A30)",
+                "t": "Hiddenhausen (A30)",
+                "l": 5270,
+                "r": "A30/E30"
+            },
+            {
+                "id": "europe_HD_DE_TTL2370741_P",
+                "p": {
+                    "x": 1066783.4,
+                    "y": 6878924
+                },
+                "ic": 6,
+                "ty": 2,
+                "cs": 0,
+                "d": "queuing traffic",
+                "f": "Frielingen (B6)",
+                "t": "Berenbostel (B6)",
+                "l": 850,
+                "dl": 238,
+                "r": "B6"
+            },
+            {
+                "id": "europe_HD_DE_TTL2370844_P",
+                "p": {
+                    "x": 918484.8,
+                    "y": 6916244
+                },
+                "ic": 6,
+                "ty": 3,
+                "cs": 0,
+                "d": "stationary traffic",
+                "f": "Steinfeld (Oldb.) (L846)",
+                "t": "Lohne (Oldb.) (L846)",
+                "l": 360,
+                "dl": 109,
+                "r": "L846"
+            },
+            {
+                "id": "europe_HD_DE_TTL2372531_P",
+                "p": {
+                    "x": 1128609.1,
+                    "y": 6799133
+                },
+                "ic": 6,
+                "ty": 2,
+                "cs": 0,
+                "d": "queuing traffic",
+                "f": "Bockenem/B243 (Autobahnzubringer Bockenem/B243a)",
+                "t": "Bockenem (Autobahnzubringer Bockenem/B243a)",
+                "l": 820,
+                "dl": 126,
+                "r": "B243A"
+            },
+            {
+                "id": "europe_CLUSTER_9_-1238928531",
+                "p": {
+                    "x": 1294783.1,
+                    "y": 6823310
+                },
+                "ic": 6,
+                "ty": 2,
+                "cbl": {
+                    "x": 1294315,
+                    "y": 6823067
+                },
+                "ctr": {
+                    "x": 1295251.2,
+                    "y": 6823553
+                },
+                "cs": 2,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTL2372795_0",
+                        "p": {
+                            "x": 1294315,
+                            "y": 6823067
+                        },
+                        "ic": 6,
+                        "ty": 2,
+                        "cs": 0,
+                        "d": "queuing traffic",
+                        "f": "71 (B71) / Damaschkeplatz",
+                        "t": "Jakobstraße",
+                        "l": 470,
+                        "dl": 122
+                    },
+                    {
+                        "id": "europe_HD_DE_TTL2372789_P",
+                        "p": {
+                            "x": 1295251.2,
+                            "y": 6823553
+                        },
+                        "ic": 6,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "queuing traffic",
+                        "f": "Wanzleben (B246)",
+                        "t": "Königsborn (B246)",
+                        "l": 370,
+                        "dl": 202
+                    }
+                ],
+                "l": 840
+            },
+            {
+                "id": "europe_HD_DE_TTR2370195_N",
+                "p": {
+                    "x": 1153817,
+                    "y": 6833012
+                },
+                "ic": 7,
+                "ty": 4,
+                "cs": 0,
+                "d": "right lane blocked",
+                "c": "broken down heavy lorry",
+                "f": "Salzgitter-Lebenstedt-Nord (A39)",
+                "t": "Salzgitter-Watenstedt (A39)",
+                "l": 3200,
+                "r": "A39"
+            },
+            {
+                "id": "europe_HD_DE_TTL2371156_N",
+                "p": {
+                    "x": 1271453.4,
+                    "y": 6852540
+                },
+                "ic": 6,
+                "ty": 3,
+                "cs": 0,
+                "d": "stationary traffic",
+                "f": "Haldensleben (B245)",
+                "t": "Bebertal (B245)",
+                "l": 850,
+                "dl": 427,
+                "r": "B245"
+            },
+            {
+                "id": "europe_CLUSTER_9_-138389802",
+                "p": {
+                    "x": 1084337,
+                    "y": 6868588
+                },
+                "ic": 13,
+                "ty": 1,
+                "cbl": {
+                    "x": 1082023.2,
+                    "y": 6866918
+                },
+                "ctr": {
+                    "x": 1086650.6,
+                    "y": 6870258
+                },
+                "cs": 3,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR352_P",
+                        "p": {
+                            "x": 1082023.2,
+                            "y": 6866918
+                        },
+                        "ic": 8,
+                        "ty": 4,
+                        "cs": 0,
+                        "d": "bridge closed",
+                        "f": "Schwarzer Bär (Blumenauer Straße/GH5)",
+                        "t": "Am Küchengarten (Spinnereistraße/GH5)",
+                        "l": 170
+                    },
+                    {
+                        "id": "europe_HD_DE_TTL2367878_N",
+                        "p": {
+                            "x": 1086650.6,
+                            "y": 6870258
+                        },
+                        "ic": 6,
+                        "ty": 2,
+                        "cs": 0,
+                        "d": "queuing traffic",
+                        "f": "Hans-Böckler-Allee (Clausewitzstraße/GH6)",
+                        "t": "Emmichplatz (Fritz-Behrens-Allee/GH6)",
+                        "l": 660,
+                        "dl": 223
+                    },
+                    {
+                        "id": "europe_HD_DE_TTL2372529_0",
+                        "p": {
+                            "x": 1084906.8,
+                            "y": 6869272.5
+                        },
+                        "ic": 6,
+                        "ty": 2,
+                        "cs": 0,
+                        "d": "queuing traffic",
+                        "f": "Berliner Allee",
+                        "t": "Aegidientorplatz (L384) / Georgsplatz",
+                        "l": 640,
+                        "dl": 155
+                    }
+                ],
+                "l": 1470
+            },
+            {
+                "id": "europe_CLUSTER_9_-602882061",
+                "p": {
+                    "x": 1102031.8,
+                    "y": 6872249
+                },
+                "ic": 8,
+                "ty": 0,
+                "cbl": {
+                    "x": 1100770.4,
+                    "y": 6872177
+                },
+                "ctr": {
+                    "x": 1103293.1,
+                    "y": 6872321
+                },
+                "cs": 2,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR350_0",
+                        "p": {
+                            "x": 1103293.1,
+                            "y": 6872177
+                        },
+                        "ic": 8,
+                        "ty": 4,
+                        "cs": 0,
+                        "d": "closed",
+                        "f": "Kreuz Hannover-Ost [57]",
+                        "t": "7 (A7)",
+                        "l": 150
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR348_0",
+                        "p": {
+                            "x": 1100770.4,
+                            "y": 6872321
+                        },
+                        "ic": 8,
+                        "ty": 4,
+                        "cs": 0,
+                        "d": "closed",
+                        "f": "Kreuz Hannover-Ost [57]",
+                        "t": "7 (A7)",
+                        "l": 130
+                    }
+                ],
+                "l": 280
+            },
+            {
+                "id": "europe_HD_DE_TTL2371801_N",
+                "p": {
+                    "x": 1120912.8,
+                    "y": 6915612.5
+                },
+                "ic": 6,
+                "ty": 2,
+                "cs": 0,
+                "d": "queuing traffic",
+                "f": "Groß Hehlen (Celler Straße/B3)",
+                "t": "Celle/Wilhelm-Heinichen-Ring (Hannoversche Heerstraße/B3)",
+                "l": 880,
+                "dl": 176,
+                "r": "B3"
+            },
+            {
+                "id": "europe_CLUSTER_9_1398137904",
+                "p": {
+                    "x": 850893.4,
+                    "y": 6764265
+                },
+                "ic": 9,
+                "ty": 3,
+                "cbl": {
+                    "x": 850893.4,
+                    "y": 6764265
+                },
+                "ctr": {
+                    "x": 850893.4,
+                    "y": 6764265
+                },
+                "cs": 2,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR184_2_P",
+                        "p": {
+                            "x": 850893.4,
+                            "y": 6764265
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Ascheberg (A1)",
+                        "t": "Münster-Nord (A1)",
+                        "l": 23330,
+                        "r": "A1/E37"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR186_2_P",
+                        "p": {
+                            "x": 850893.4,
+                            "y": 6764265
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Ascheberg (A1)",
+                        "t": "Münster-Süd (A1)",
+                        "l": 15140,
+                        "r": "A1/E37"
+                    }
+                ],
+                "l": 38470
+            },
+            {
+                "id": "europe_CLUSTER_9_-49355197",
+                "p": {
+                    "x": 837808.1,
+                    "y": 6783586
+                },
+                "ic": 9,
+                "ty": 3,
+                "cbl": {
+                    "x": 834847.9,
+                    "y": 6781238.5
+                },
+                "ctr": {
+                    "x": 840768.3,
+                    "y": 6785933
+                },
+                "cs": 3,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR185_2_P",
+                        "p": {
+                            "x": 834847.9,
+                            "y": 6781238.5
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Senden (A43)",
+                        "t": "Münster-Süd (A43)",
+                        "l": 5300,
+                        "r": "A43"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR185_1_N",
+                        "p": {
+                            "x": 840399.4,
+                            "y": 6785933
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Münster-Süd (A43)",
+                        "t": "Senden (A43)",
+                        "l": 4670,
+                        "r": "A43"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR186_1_N",
+                        "p": {
+                            "x": 840768.3,
+                            "y": 6783438.5
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Münster-Süd (A1)",
+                        "t": "Ascheberg (A1)",
+                        "l": 14240,
+                        "r": "A1/E37"
+                    }
+                ],
+                "l": 24210
+            },
+            {
+                "id": "europe_CLUSTER_9_953746854",
+                "p": {
+                    "x": 846399.25,
+                    "y": 6793337
+                },
+                "ic": 13,
+                "ty": 2,
+                "cbl": {
+                    "x": 839937,
+                    "y": 6788785.5
+                },
+                "ctr": {
+                    "x": 852861.44,
+                    "y": 6797888.5
+                },
+                "cs": 4,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR184_1_N",
+                        "p": {
+                            "x": 839937,
+                            "y": 6797888.5
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Münster-Nord (A1)",
+                        "t": "Ascheberg (A1)",
+                        "l": 22850,
+                        "r": "A1/E37"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTL2372731_0",
+                        "p": {
+                            "x": 852861.44,
+                            "y": 6795264
+                        },
+                        "ic": 6,
+                        "ty": 2,
+                        "cs": 0,
+                        "d": "queuing traffic",
+                        "f": "51 (B51)",
+                        "t": "6 (K6)",
+                        "l": 640,
+                        "dl": 146,
+                        "r": "L843"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTL2371760_N",
+                        "p": {
+                            "x": 846128.06,
+                            "y": 6796477.5
+                        },
+                        "ic": 6,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "queuing traffic",
+                        "f": "Greven (B219)",
+                        "t": "Steinfurter Straße (Grevener Straße/B219)",
+                        "l": 330,
+                        "dl": 122,
+                        "r": "B219"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTL2372291_0",
+                        "p": {
+                            "x": 848015.06,
+                            "y": 6788785.5
+                        },
+                        "ic": 6,
+                        "ty": 2,
+                        "cs": 0,
+                        "d": "stationary traffic",
+                        "f": "51 (B51)",
+                        "t": "219 (B219) / 9 (K9)",
+                        "l": 260,
+                        "dl": 144,
+                        "r": "L884"
+                    }
+                ],
+                "l": 24080
+            },
+            {
+                "id": "europe_CLUSTER_9_-638136929",
+                "p": {
+                    "x": 910594,
+                    "y": 6821175
+                },
+                "ic": 13,
+                "ty": 1,
+                "cbl": {
+                    "x": 909648.3,
+                    "y": 6820880
+                },
+                "ctr": {
+                    "x": 911539.6,
+                    "y": 6821469.5
+                },
+                "cs": 4,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR109_r2_0",
+                        "p": {
+                            "x": 909648.3,
+                            "y": 6821258.5
+                        },
+                        "ic": 8,
+                        "ty": 4,
+                        "cs": 0,
+                        "d": "closed",
+                        "f": "Dissen am Teutoburger Wald",
+                        "t": "33 (A33)",
+                        "l": 30,
+                        "r": "L94"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR111_P",
+                        "p": {
+                            "x": 910576.75,
+                            "y": 6821469.5
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "construction work",
+                        "t": "Dissen/Bad Rothenfelde (A33)"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR109_N",
+                        "p": {
+                            "x": 910563.4,
+                            "y": 6821391.5
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "construction work",
+                        "t": "Dissen/Bad Rothenfelde (A33)"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR111_r1_0",
+                        "p": {
+                            "x": 911539.6,
+                            "y": 6820880
+                        },
+                        "ic": 8,
+                        "ty": 4,
+                        "cs": 0,
+                        "d": "closed",
+                        "f": "Dissen/Bad Rothenfelde [13]",
+                        "t": "Dissen am Teutoburger Wald",
+                        "l": 380,
+                        "r": "L94"
+                    }
+                ],
+                "l": 410
+            },
+            {
+                "id": "europe_CLUSTER_9_-849281743",
+                "p": {
+                    "x": 862053.94,
+                    "y": 6846708.5
+                },
+                "ic": 9,
+                "ty": 3,
+                "cbl": {
+                    "x": 858277.4,
+                    "y": 6845569
+                },
+                "ctr": {
+                    "x": 865830.5,
+                    "y": 6847848
+                },
+                "cs": 2,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR1135992_1_P",
+                        "p": {
+                            "x": 858277.4,
+                            "y": 6845569
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Ibbenbüren (A30)",
+                        "t": "Laggenbeck (A30)",
+                        "l": 4340,
+                        "r": "A30/E30"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR1135992_2_N",
+                        "p": {
+                            "x": 865830.5,
+                            "y": 6847848
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "f": "Laggenbeck (A30)",
+                        "t": "Ibbenbüren (A30)",
+                        "l": 4280,
+                        "r": "A30/E30"
+                    }
+                ],
+                "l": 8620
+            },
+            {
+                "id": "europe_CLUSTER_9_1172797817",
+                "p": {
+                    "x": 883445.06,
+                    "y": 6851998
+                },
+                "ic": 9,
+                "ty": 3,
+                "cbl": {
+                    "x": 883015.1,
+                    "y": 6849040.5
+                },
+                "ctr": {
+                    "x": 883875,
+                    "y": 6854956
+                },
+                "cs": 2,
+                "cpoi": [
+                    {
+                        "id": "europe_HD_DE_TTR147_2_P",
+                        "p": {
+                            "x": 883875,
+                            "y": 6849040.5
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "c": "carriageway reduced to two lanes",
+                        "f": "Lotte/Osnabrück (A1)",
+                        "t": "Osnabrück-Nord (Hansalinie/A1)",
+                        "l": 3960,
+                        "r": "A1/E37"
+                    },
+                    {
+                        "id": "europe_HD_DE_TTR147_1_N",
+                        "p": {
+                            "x": 883015.1,
+                            "y": 6854956
+                        },
+                        "ic": 9,
+                        "ty": 3,
+                        "cs": 0,
+                        "d": "long-term roadworks",
+                        "c": "carriageway reduced to two lanes",
+                        "f": "Osnabrück-Hafen (Hansalinie/A1)",
+                        "t": "Lotte/Osnabrück (A1)",
+                        "l": 4270,
+                        "r": "A1/E37"
+                    }
+                ],
+                "l": 8230
+            }
+        ]
+    }
+}

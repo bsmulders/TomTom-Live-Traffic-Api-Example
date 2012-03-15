@@ -1,0 +1,65 @@
+body
+{
+	background-color:#EEE;
+}
+
+dl.incident
+{
+	border:10px #DDD solid;
+	border-top:0;
+	border-bottom:0;
+	background-color:#EEE;
+	margin:10px;
+	padding:5px 10px;
+}
+
+dl.incident dt
+{
+	color:#555;
+	float:left;
+	margin-right:10px;
+	width:110px;
+	padding:4px;
+}
+
+dl.incident dd
+{
+	color:#777;
+	border-bottom:1px #DDD solid;
+	padding:4px;
+}
+
+dl.incident dd a
+{
+	color:#777;
+}
+
+td.severitySlow
+{
+	background-color:#F4FA8C !important;
+}
+
+td.severityQueing
+{
+	background-color:#FAE48C !important;
+}
+
+td.severityStationary
+{
+	background-color:#FA978C !important;
+}
+
+td.severityClosed
+{
+	background-color:#E8E8E8 !important;
+}
+
+.button-refresh
+{
+	background-image:url('../img/refresh.gif');
+}
+
+.button-settings
+{
+	background-image:url('../img/cog.gif');
+}
