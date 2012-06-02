@@ -86,7 +86,7 @@ Ext.onReady(function () {
 	});
 
 	// JsonStore containing the JSON result
-	Ext.create('Ext.dataIndexStore', {
+	Ext.create('Ext.data.Store', {
 		storeId: 'TrafficIncidentJsonStore',
 		proxy: {
 			type: 'ajax',
