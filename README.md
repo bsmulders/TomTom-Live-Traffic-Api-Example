@@ -1,5 +1,7 @@
 # TomTom-Live-Traffic-Api-Example
 
+![Screenshot](screenshot1.png)
+
 ## License
 Copyright (c) 2012, Bobbie Smulders
 
@@ -7,7 +9,7 @@ Contact: <mail@bsmulders.com>
 
 ## Project goal
 
-This project houses the web application example belonging to this blogpost: [Using the TomTom Live Traffic API]()
+This project houses the web application example belonging to this blogpost: [Using the TomTom Live Traffic API](http://bsmulders.com/2012/03/using-the-tomtom-live-traffic-api/)
 
 ## Project components
 
