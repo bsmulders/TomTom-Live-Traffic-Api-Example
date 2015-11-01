@@ -374,7 +374,10 @@ Ext.onReady(function () {
 		Proj4js.transform(projWGS84, projEPSG900913, tr);
 
 		// Build the service URI
-		var url = 'http://www.tomtom.com/livetraffic/lbs/services/traffic/tm/1/' + bl.y + ',' + bl.x + ',' + tr.y + ',' + tr.x + '/' + Ext.getCmp('nfZoomAmount').getValue() + '/0,0,0,0/' + (new Date().getTime()) + '/json/2bbdd0e2-6452-494a-b6b6-5aceb39048eb;' + 'projection=' + Ext.getCmp('hfProjection').getValue() + ';' + 'language=' + Ext.getCmp('cbLanguage').getValue() + ';style=s3;' + 'expandCluster=' + (Ext.getCmp('cbExpandClusters').getValue() ? 'true' : 'false');
+		var url = 'http://api.internal.tomtom.com/lbs/services/trafficIcons/3/s3/' + bl.y + ',' + bl.x + ',' + tr.y + ',' + tr.x + '/' 
+      + Ext.getCmp('nfZoomAmount').getValue() + '/' + (new Date().getTime()) + '/json?key=8r734zursdrdrvcejfhedk8q&projection=' 
+      + Ext.getCmp('hfProjection').getValue() + '&language=' + Ext.getCmp('cbLanguage').getValue() + '&style=s3&expandCluster=' 
+      + (Ext.getCmp('cbExpandClusters').getValue() ? 'true' : 'false');
 		var store = Ext.getStore('TrafficIncidentJsonStore');
 		store.proxy.url = url;
 		store.load();
