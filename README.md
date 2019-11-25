@@ -1,4 +1,4 @@
-# TomTom-Live-Traffic-Api-Example
+# TomTom Live Traffic API Example
 
 ![Screenshot](screenshot1.png)
 
@@ -9,7 +9,7 @@ Contact: <mail@bsmulders.com>
 
 ## Project goal
 
-This project houses the web application example belonging to this blogpost: [Using the TomTom Live Traffic API](http://bsmulders.com/2012/03/using-the-tomtom-live-traffic-api/)
+This project houses the web application example belonging to this blogpost: [Using the TomTom Live Traffic API](https://bsmulders.com/2012/03/using-the-tomtom-live-traffic-api/)
 
 ## Project components
 
